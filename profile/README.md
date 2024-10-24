@@ -1,4 +1,4 @@
-![Header Image](https://i.imgur.com/AScMiBN.jpeg)
+![Header Image](https://media.licdn.com/dms/image/v2/D4E3DAQEXwKBtAgm18A/image-scale_191_1128/image-scale_191_1128/0/1729803585481/postsuiteapp_cover?e=1730415600&v=beta&t=6-YCR3Kw0kZSwc58BhRG5DbCivRTQo7l2PU8fM_E9oU)
 
 ## 📮 PostSuite Platform
 We're a social media management tool platform, making it quick and easy for businesses and organizations to manage their social media profiles. For any questions regarding the platform, please contact `support@postsuite.app`.
