@@ -1,4 +1,4 @@
-<img width="4096" height="843" alt="68747470733a2f2f692e696d6775722e636f6d2f75676d764475432e706e67" src="https://github.com/user-attachments/assets/3edc240d-06a1-4487-98bd-5a281193327f" />
+<img width="4096" height="843" alt="68747470733a2f2f692e696d6775722e636f6d2f75676d764475432e706e67" src="https://github.com/user-attachments/assets/9e082ec8-4fe6-4ddd-92ac-7f3fa03cad16" />
 
 ## 📮 PostSuite Platform
 We're a social media management tool platform, making it quick and easy for businesses and organizations to manage their social media profiles. For any questions regarding the platform, please contact `support@postsuite.app`.
